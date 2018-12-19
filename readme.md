@@ -5,9 +5,9 @@
 El proyecto se compondrá de un backend realizado con **Laravel**, un frontend realizado con **Vue** o **Angular** (Está por ver) y un gestor de bases de datos **MySQL**.
 
 ### Roles de los usuarios
-- ++ Administrador ++: Se encargará de gestionar los destinos de viaje y los usuarios.
-- ++ Registrado ++: Puede realizar busquedas y compras de experiencias.
-- ++ Sin Registrar ++: Puede realizar búsqueda de experiencias.
+- **Administrador**: Se encargará de gestionar los destinos de viaje y los usuarios.
+- **Registrado**: Puede realizar busquedas y compras de experiencias.
+- **Sin Registrar**: Puede realizar búsqueda de experiencias.
 
 ### Estructura de las tablas
 
@@ -16,8 +16,8 @@ El proyecto se compondrá de un backend realizado con **Laravel**, un frontend r
 
 | users |
 |--------|
-| ++ username++ |
-| ++ email++ |
+| **username** |
+| **email** |
 | password |
 | name |
 | surname |
@@ -26,14 +26,14 @@ El proyecto se compondrá de un backend realizado con **Laravel**, un frontend r
 
 | countries |
 |--------|
-| ++location++ |
+| **location** |
 | src |
 
 </td><td>
 
 | experiences |
 |--------|
-| ++id++ |
+| **id** |
 | country(FK) |
 | name |
 | description |
@@ -41,6 +41,8 @@ El proyecto se compondrá de un backend realizado con **Laravel**, un frontend r
 | src_hero |
 
 </td></tr> </table>
+#
+
 ## MPV
 - **Landing page** realizada al menos con HTML y CSS
 - **Conexión con la Base de Datos**
