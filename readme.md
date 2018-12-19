@@ -1,7 +1,7 @@
 # Proyecto de Laravel
 
 ## Definición del proyecto
-*Travelly* es una página web destinada a la búsqueda de experienecias al rededor del mundo. 
+*Travelly* es una página web destinada a la búsqueda de experiencias al rededor del mundo. 
 
 ![Design](readme/design.png)
 
