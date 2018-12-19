@@ -2,6 +2,7 @@
 
 ## Definición del proyecto
 *Travelly* es una página web destinada a la búsqueda de experienecias al rededor del mundo. 
+!['Design']('readme/design.png')
 El proyecto se compondrá de un backend realizado con **Laravel**, un frontend realizado con **Vue** o **Angular** (Está por ver) y un gestor de bases de datos **MySQL**.
 
 ### Roles de los usuarios
