@@ -41,7 +41,6 @@ El proyecto se compondrá de un backend realizado con **Laravel**, un frontend r
 | src_hero |
 
 </td></tr> </table>
-#
 
 ## MPV
 - **Landing page** realizada al menos con HTML y CSS
