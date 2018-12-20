@@ -22,6 +22,7 @@ El proyecto se compondrá de un backend realizado con **Laravel**, un frontend r
 | **username** |
 | **email** |
 | password |
+| role |
 | name |
 | surname |
 
@@ -40,6 +41,7 @@ El proyecto se compondrá de un backend realizado con **Laravel**, un frontend r
 | country(FK) |
 | name |
 | description |
+| price |
 | src |
 | src_hero |
 
